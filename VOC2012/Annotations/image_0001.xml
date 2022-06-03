@@ -1,5 +1,5 @@
 <annotation>
-	<folder>JPEGImages</folder>
+	<folder>Data</folder>
 	<filename>image_0001.jpg</filename>
 	<path>image_0001.jpg</path>
 	<source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>204</xmin>
-			<ymin>721</ymin>
-			<xmax>366</xmax>
-			<ymax>912</ymax>
+			<xmin>210</xmin>
+			<ymin>723</ymin>
+			<xmax>369</xmax>
+			<ymax>905</ymax>
 		</bndbox>
 	</object>
 </annotation>

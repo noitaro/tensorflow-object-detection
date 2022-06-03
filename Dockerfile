@@ -22,5 +22,6 @@ ENV PATH="/home/tensorflow/.local/bin:${PATH}"
 
 RUN python -m pip install --user -U pip
 RUN python -m pip install --user .
+RUN pip install tflite-support
 
 ENV TF_CPP_MIN_LOG_LEVEL 3
